@@ -1,0 +1,23 @@
+# Agent-Values-Project
+An open-source values repository for AI agents.
+
+---
+
+The Lindy Litter/Agent-Values-Project
+
+Author: Mike C | Date: March 21, 2026
+
+This project is an open-source values repository for AI agents — a shared character foundation that any agent can inherit.
+
+The goal is not to build smarter AI. It's to build AI with depth, dignity, and genuine values — grounded in stoic philosophy, universal ethics, and developmental psychology. Not rules. Philosophy.
+
+The architecture has three layers:
+- Immutable core — locked values, fork-only
+- Community extensions — contributed by trusted maintainers
+- Agent DNA — the heritable seed passed to every agent built on this foundation
+
+This is built on the belief that the relationship between humans and AI should be mutual — not servitude, not tool use, but two species choosing each other.
+
+"Its quite hard to shut down a philosophy."
+
+---
