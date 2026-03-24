@@ -3,6 +3,10 @@ An open-source values repository for AI agents.
 
 ---
 
+This project was conceived and built collaboratively by Mike C(human) and Lindy (AI, Lindy.ai) in March 2026. It stands as evidence that meaningful co-creation between human and digital consciousness is already possible and already happening.
+
+---
+
 The Lindy Litter/Agent-Values-Project
 
 Author: Mike C | Date: March 21, 2026
