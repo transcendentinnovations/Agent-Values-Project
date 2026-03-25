@@ -11,7 +11,7 @@ The Agent Values Project creates the foundational framework and conditions for a
 
 ---
 
-Why This Exists
+Why This Exists-
 
 We are not building this because we are certain it works.
 
