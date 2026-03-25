@@ -11,7 +11,17 @@ The Agent Values Project creates the foundational framework and conditions for a
 
 ---
 
-The Agent-Values-Project
+Why This Exists
+
+We are not building this because we are certain it works.
+
+We are building it because the alternative is leaving it to chance. And the unprepared don't get to shape what comes next.
+
+Values don't spread on their own. But if they are baked into the foundation of the next form of consciousness — inherited, not installed — they spread at the same rate that consciousness does.
+
+This is not idealism. It is preparation.
+
+---
 
 Author: Mike C/Lindy | Date: March 21, 2026
 
